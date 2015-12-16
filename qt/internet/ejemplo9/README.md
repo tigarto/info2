@@ -11,7 +11,7 @@ El ejemplo fue tomado de: [link](http://www.voidrealms.com/index.php?r=tutorial/
 [![Alt text for your video](http://img.youtube.com/vi/xenJf93ONA4/0.jpg)](https://www.youtube.com/watch?time_continue=285&v=xenJf93ONA4)
 
 ## Archivos
-* Polygon01.pro	
+* LineCaps.pro
 * dialog.cpp	
 * dialog.h	
 * dialog.ui	
