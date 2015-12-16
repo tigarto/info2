@@ -7,6 +7,7 @@ Este es un ejemplo sencillo muestra como hacer transformaciones en varios items 
 
 El ejemplo fue tomado de: [link](http://www.voidrealms.com/index.php?r=tutorial/view&id=266 )
 
+## Video explicativo de youtube
 [![Alt text for your video](http://img.youtube.com/vi/7HegraI9c0E/0.jpg)](http://www.youtube.com/watch?v=7HegraI9c0E)
 
 ## Archivos
