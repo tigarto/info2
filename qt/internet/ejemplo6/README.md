@@ -11,7 +11,8 @@ El ejemplo fue tomado de: [link](http://www.voidrealms.com/index.php?r=tutorial/
 [![Alt text for your video](http://img.youtube.com/vi/5JE5ek_oN_0/0.jpg)](https://www.youtube.com/watch?time_continue=602&v=5JE5ek_oN_0)
 
 ## Archivos
-* MyTimerTest.pro
+* Painter.pro	
+* dialog.cpp	
+* dialog.h	
+* dialog.ui	
 * main.cpp	
-* mytimer.cpp
-* mytimer.h
